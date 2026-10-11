@@ -1,6 +1,6 @@
 [project]
 name = "beat-internet-time"
-version = "0.1.0"
+version = "0.1.1"
 description = "Converts between standard time and Swatch Internet Time beats where the day is divided into 1000 beats."
 requires-python = ">=3.10"
 dependencies = []
